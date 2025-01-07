@@ -1,0 +1,2 @@
+# shell
+soluzioni esami shell 
