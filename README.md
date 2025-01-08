@@ -21,3 +21,4 @@ FCP.sh
 - creazione file temporaneo
 
 FCR.sh
+- cerca i file dentro la dir con almeno un carattere numerico
