@@ -36,11 +36,11 @@ case $# in
  #setto il path
  PATH=`pwd`:$PATH
  export PATH
- #creo file tmp
- > /tmp/nomiFile
+ #creo file tmp. la prof non l'ha fatto quindi tolto
+ #> /tmp/nomiFile
  
  #ora eseguo le fasi
  for G
  do
- 	sh FCR.sh $G $X 0 /tmp/nomiFile
-done
+ 	sh FCR.sh $G $X 0 #/tmp/nomiFile
+ done
