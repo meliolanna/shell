@@ -22,3 +22,15 @@ FCP.sh
 
 FCR.sh
 - cerca i file dentro la dir con almeno un carattere numerico
+
+24apr17
+
+FCP.sh
+- controllo di un parametro nome semplice e shift
+- controllo gerarchie nomi assoluti
+- file temporaneo per tenere nomi su cui fare for con cat
+- linking
+
+FCR.sh
+- ricerca di un terzo file in ogni dir
+- uso di contatore file temp e redirezione append
